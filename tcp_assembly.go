@@ -6,7 +6,7 @@ import (
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"io"
-	"reflect"
+	_ "reflect"
 	"strconv"
 	"sync"
 	"time"
